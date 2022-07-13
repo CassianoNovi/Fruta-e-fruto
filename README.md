@@ -1,2 +1,2 @@
-# Fruta-e-fruto
-Projeto do curso Arquitetura CSS: descomplicando os problemas da Alura
+# arquitetura-css
+curso de arquitetura da Alura. 
